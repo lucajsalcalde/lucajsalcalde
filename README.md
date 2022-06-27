@@ -9,7 +9,7 @@
 
 
 ### Skills
-- **Python Libs:** Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn, NLTK, Tensorflow/Keras, PyTorch, Transformers, Librosa.
+- **Python Libs:** 
 - **R:** 
 - **Power BI:** 
 - **Tableau:** 
