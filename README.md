@@ -1,4 +1,4 @@
-### LOADING...
+
 ### Luca Jordão Salas Alcalde - [Computer Scientist] 👋
 
 ### I'm a Computer Scientist who loves Data Analysis and everything that involves the area. I'm always learning new tools and developing projects.
@@ -20,7 +20,7 @@
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucajsalcalde&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  
+  <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucajsalcalde&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
