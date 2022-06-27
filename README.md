@@ -1,3 +1,4 @@
+### LOADING...
 ### Luca Jordão Salas Alcalde - [Computer Scientist] 👋
 
 ### I'm a Computer Scientist who loves Data Analysis and everything that involves the area. I'm always learning new tools and developing projects.
