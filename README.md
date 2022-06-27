@@ -10,8 +10,9 @@
 
 
 ### Skills
-- **Python Libs;** 
-- **R;** 
+- **Python;** 
+- **R;**
+- **SQL;** 
 - **Power BI;** 
 - **Tableau;** 
 - **Excel;** 
