@@ -10,15 +10,15 @@
 
 ### Skills
 - **Python Libs:** Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn, NLTK, Tensorflow/Keras, PyTorch, Transformers, Librosa.
-- **Sentiment Analysis:** stemming, lemmatization, stop words, part-of-speech, bag of words, word embeddings, cross-validation, lexicon dictionary, feature selection.
-- **Word representations:** Word2Vec, Glove, FastText e Wang2Vec.
-- **Language Models:** BERT and ELMo (still learning).
-- **Machine Learning:** Decision Tree, Logistic Regression, Random Forest, SVM, Naive Bayes, KNN and Ensemble methods.
-- **Deep Learning:** MLP, CNN, RNN (LSTM and BiLSTM).
-- **Digital Signal Processing:** Theoretical and practical knowledge in audio feature extraction techniques. The main methods are: MFCC, Mel-spectrogram and Spectrogram.
+- **R:** 
+- **Power BI:** 
+- **Tableau:** 
+- **Excel:** 
+- **Análise de Dados:**
+- **Databricks:**
 
 <div>
-  <a href="https://beacons.ai/alisonrib17">
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucajsalcalde&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucajsalcalde&layout=compact&langs_count=16&theme=dark"/>
 </div>
