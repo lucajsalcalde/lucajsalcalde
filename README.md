@@ -18,7 +18,7 @@
 - **Excel;** 
 - **Databricks;**
 
-### Loagind...
+### Loading...
 - **Alteryx;** 
 
 <div>
