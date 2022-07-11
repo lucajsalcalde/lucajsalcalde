@@ -17,6 +17,10 @@
 - **Tableau;** 
 - **Excel;** 
 - **Databricks;**
+- **Indicadores;** 
+- **BSC;** 
+- **Metodologias ágeis;** 
+
 
 ### Loading...
 - **Alteryx;** 
