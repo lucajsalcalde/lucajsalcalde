@@ -13,6 +13,7 @@
 - **Python;** 
 - **R;**
 - **SQL;** 
+- **BigQuery;** 
 - **Power BI;** 
 - **Tableau;** 
 - **Excel;** 
