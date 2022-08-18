@@ -21,6 +21,7 @@
 - **Indicadores;** 
 - **BSC;** 
 - **Metodologias ágeis;** 
+- **Google Analytics;**
 
 
 ### Loading...
