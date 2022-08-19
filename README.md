@@ -22,10 +22,11 @@
 - **BSC;** 
 - **Metodologias ágeis;** 
 - **Google Analytics;**
-
+- **UiPath;**
+- **Alteryx;** 
 
 ### Loading...
-- **Alteryx;** 
+- **Alteryx certificate;** 
 
 <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucajsalcalde&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
